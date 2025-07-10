@@ -1,4 +1,4 @@
-<img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/153b44ed-111d-4f55-8ed1-1d679e9c7954" /># ALL IN ONE APPLICATION SPRING SECURITY (PRODUCT MANAGER)
+# ALL IN ONE APPLICATION SPRING SECURITY (PRODUCT MANAGER)
 Ce projet consiste en une application web de gestion des produits, développée avec Spring MVC pour une architecture modulaire et Thymeleaf comme moteur de templates pour une intégration HTML dynamique. L'injection de dépendances via Spring permet une gestion flexible des composants, tandis que Spring Security sécurise l'accès aux fonctionnalités avec une authentification et des rôles personnalisés. L'application offre des opérations CRUD sur les produits, une interface intuitive et une gestion des utilisateurs, illustrant ainsi les bonnes pratiques de développement avec Spring.
 
 ### Ajouter les dependances et creation du projet 
